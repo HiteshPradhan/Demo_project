@@ -2,6 +2,6 @@ hello frinds
 
 how r u 
 
-
+print ""
 
 welcome to cdac
